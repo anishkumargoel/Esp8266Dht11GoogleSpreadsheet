@@ -2,6 +2,9 @@
 
 Refer to my-mod-dht11.ino
 
+Graph link
+https://docs.google.com/spreadsheets/d/e/2PACX-1vR2iOr0hooCaxzc8OClDmrPLTh9YEwRlp6PbxfMPZM4zvOE1LAnOaeS2zJ_joJVboJ3Xb7iCWBVm0J_/pubchart?oid=321602895&format=interactive
+
 
 
 # Log data from an ESP8266 to Google Sheets
